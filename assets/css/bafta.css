@@ -1,0 +1,18 @@
+.page-info{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    margin-top: -140px;
+    margin-left: -260px;
+    border: 5px solid #ccc;
+    padding: 32px;
+}
+.easy{
+	color:green;
+}
+.medium{
+	color:orange;
+}
+.hard{
+	color:red;
+}
